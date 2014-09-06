@@ -1,0 +1,32 @@
+@media screen and (min-width: 1100px){
+
+#body-user #controls, #body-settings #controls {
+    padding-left: 1% !important;
+}
+#app-navigation + #app-content #controls {left:25.5%;width: 72%;}
+#content {margin-top: 0px !important;}
+#content-wrapper {padding-left: 7% !important;width: 100% !important;}
+#navigation{
+
+    visibility:visible !important;
+    display: block !important;
+    position:fixed !important;
+    bottom:0px !important;
+    width: 7% !important;
+    top:45px !important;
+    max-height: 100% !important;
+    margin-top:0px !important;
+    -moz-user-select: none !important;
+    -moz-box-sizing: border-box !important;
+    box-shadow: 0px 0px 0px transparent !important;
+    border-radius: 0px;
+}
+#navigation #apps ul{text-align: center;}
+
+#leftcontent{width: 21% !important;}
+#rightcontent{width: 78% !important;}
+#bookmark_settings {width:21% !important;}
+.bookmarks_list, #firstrun {left:27% !important;}
+#navigation .wrapper {margin: auto !important;}
+#header .icon-caret {display:none;}
+}
