@@ -13,6 +13,9 @@ to the top.
 ## How to
 
 * download zip
+* unzip it
+* cd Old_menu-master
+* copy old_menu
 * go to /apps folder
-* unzip
+* paste
 * activate Old Menu
