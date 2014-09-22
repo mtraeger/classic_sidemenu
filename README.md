@@ -15,4 +15,5 @@ to the top.
 * download zip
 * go to /apps folder
 * unzip
+* change name -> ````mv Old_menu-master old_menu````
 * activate Old Menu
