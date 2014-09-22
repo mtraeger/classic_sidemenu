@@ -1,13 +1,11 @@
 @media screen and (min-width: 1100px){
 
-#body-user #controls, #body-settings #controls {
-    padding-left: 1% !important;
-}
-#app-navigation + #app-content #controls {left:25.5%;width: 72%;}
+#expanddiv {background-color: #1d2d44 !important;}
+#controls{width: 93%;margin-left: 7%;}
 #content {margin-top: 0px !important;}
 #content-wrapper {padding-left: 7% !important;width: 100% !important;}
 #navigation{
-
+    background-color: #1d2d44 !important;
     visibility:visible !important;
     display: block !important;
     position:fixed !important;
@@ -29,4 +27,14 @@
 .bookmarks_list, #firstrun {left:27% !important;}
 #navigation .wrapper {margin: auto !important;}
 #header .icon-caret {display:none;}
+
+/***********************************************************
+*
+*       3rd Party Apps
+*
+************************************************************/
+
+/* owncloud-markdown (https://github.com/icewind1991/owncloud-markdown) */
+#md_preview {padding-left: 60px;}
+
 }
