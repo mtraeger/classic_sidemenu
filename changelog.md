@@ -2,7 +2,7 @@
 
 * fix issue with [owncloud-markdown](https://github.com/icewind1991/owncloud-markdown) app
 * menu top-right background changed
-* refractor
+* some refactors
 
 ### 2014, 15 September 
 
