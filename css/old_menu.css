@@ -1,31 +1,31 @@
 @media screen and (min-width: 1100px){
 
-#expanddiv {background-color: #1d2d44 !important;}
+#expanddiv {background-color: #1d2d44;}
 #controls{width: 93%;margin-left: 7%;}
-#content {margin-top: 0px !important;}
-#content-wrapper {padding-left: 7% !important;width: 100% !important;}
+#content {margin-top: 0px;}
+#content-wrapper {padding-left: 7%;width: 100%;}
 #navigation{
-    background-color: #1d2d44 !important;
-    visibility:visible !important;
+    background-color: #1d2d44;
+    visibility:visible;
     display: block !important;
     position:fixed !important;
-    bottom:0px !important;
-    width: 7% !important;
-    top:45px !important;
+    bottom:0px;
+    width: 7%;
+    top:45px;
     max-height: 100% !important;
     margin-top:0px !important;
-    -moz-user-select: none !important;
-    -moz-box-sizing: border-box !important;
-    box-shadow: 0px 0px 0px transparent !important;
+    -moz-user-select: none;
+    -moz-box-sizing: border-box;
+    box-shadow: 0px 0px 0px transparent;
     border-radius: 0px;
 }
 #navigation #apps ul{text-align: center;}
 
-#leftcontent{width: 21% !important;}
-#rightcontent{width: 78% !important;}
-#bookmark_settings {width:21% !important;}
-.bookmarks_list, #firstrun {left:27% !important;}
-#navigation .wrapper {margin: auto !important;}
+#leftcontent{width: 21%;}
+#rightcontent{width: 78%;}
+#bookmark_settings {width:21%;}
+.bookmarks_list, #firstrun {left:27%;}
+#navigation .wrapper {margin: auto;}
 #header .icon-caret {display:none;}
 
 /***********************************************************
