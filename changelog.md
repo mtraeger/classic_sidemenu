@@ -1,4 +1,6 @@
-### 2014, 02 November (V 1.1) : Remove unless !important
+### 2014, 02 November (V 1.1) :
+
+* Remove unless !important
 
 ### 2014, 22 September
 
