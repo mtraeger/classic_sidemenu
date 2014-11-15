@@ -28,6 +28,8 @@
 #navigation .wrapper {margin: auto;}
 #header .icon-caret {display:none;}
 
+#slideshow{z-index: 5000 !important;}
+
 /***********************************************************
 *
 *       3rd Party Apps
