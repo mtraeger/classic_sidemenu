@@ -1,10 +1,14 @@
+### 2014, 30 Novermber (V 1.2.1):
+
+* add necessary !important
+
 ### 2014, 15 November (V 1.2):
 
 * Fix issue https://github.com/SansPseudoFix/Old_menu/issues/2
 
 ### 2014, 02 November (V 1.1) :
 
-* Remove unless !important
+* Remove useless !important
 
 ### 2014, 22 September
 
