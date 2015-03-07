@@ -21,3 +21,13 @@ to the top.
 * ````cd apps/
 * ````git clone https://github.com/SansPseudoFix/Old_menu.git old_menu````
 * activate Old Menu on your ownCloud admin panel
+
+## Screenshots
+
+Before :
+
+![new menu](http://sanspseudofix.fr/wp-content/uploads/2014/09/oc_new_menu.png)
+
+After :
+
+![old menu](https://lut.im/AQcZIM8e/UMkf2crE)
