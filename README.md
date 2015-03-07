@@ -18,7 +18,7 @@ to the top.
 
 ## With git
 
-* ````cd apps/
+* ````cd apps/````
 * ````git clone https://github.com/SansPseudoFix/Old_menu.git old_menu````
 * activate Old Menu on your ownCloud admin panel
 
