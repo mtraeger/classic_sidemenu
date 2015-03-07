@@ -1,3 +1,6 @@
+### 2015, 07 March (V 2)
+* Tiny icons (thanks IzzySoft : https://github.com/SansPseudoFix/Oc-old-menu-stylish/issues/1)
+
 ### 2014, 30 Novermber (V 1.2.1):
 
 * add necessary !important
