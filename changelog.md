@@ -1,3 +1,7 @@
+### 2015, 09 March:
+
+* Switched Menu to 100px max-width
+
 ### 2014, 30 Novermber (V 1.2.1):
 
 * add necessary !important
