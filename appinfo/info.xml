@@ -3,10 +3,10 @@
 
   <id>old_menu</id>
   <name>Old Menu</name>
-  <description>Back to the old menu.</description>
+  <description>Back to the old menu FORK. Now with 100px fix width. Old version with Big Icons.</description>
   <version>1</version>
   <licence>AGPL</licence>
-  <author>SpF & Michael Träger</author>
+  <author>SpF and Michael Traeger</author>
   <require>7</require>
   
  
