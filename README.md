@@ -1,6 +1,8 @@
 Old Menu
 ===========
 
+Forked by Michael Träger. This is without the tiny Icons and with a fix max-width of 100px for the Menu.
+
 Menu on the left side for [owncloud](http://owncloud.org/).
 
 **This is a beta version. Please, try it on test server before.** (No reason to break anything, but we never know)
