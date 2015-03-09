@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+
+  <id>old_menu</id>
+  <name>Old Menu</name>
+  <description>Back to the old menu.</description>
+  <version>1</version>
+  <licence>AGPL</licence>
+  <author>SpF</author>
+  <require>7</require>
+  
+ 
+</info>

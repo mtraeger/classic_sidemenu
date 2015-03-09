@@ -1,0 +1,42 @@
+@media screen and (min-width: 1100px){
+
+#expanddiv {background-color: #1d2d44;}
+#controls{width: 93% !important;margin-left: 7% !important;}
+#content {margin-top: 0px;}
+#content-wrapper {padding-left: 7% !important;width: 100% !important;}
+#navigation{
+    background-color: #1d2d44;
+    visibility:visible;
+    display: block !important;
+    position:fixed !important;
+    bottom:0px;
+    width: 7% !important;
+    top:45px;
+    max-height: 100% !important;
+    margin-top:0px !important;
+    -moz-user-select: none;
+    -moz-box-sizing: border-box;
+    box-shadow: 0px 0px 0px transparent;
+    border-radius: 0px;
+}
+#navigation #apps ul{text-align: center;}
+
+#leftcontent{width: 21% !important;}
+#rightcontent{width: 78% !important;}
+#bookmark_settings {width:19.5% !important;}
+.bookmarks_list, #firstrun {left:27% !important;}
+#navigation .wrapper {margin: auto;}
+#header .icon-caret {display:none;}
+
+#slideshow{z-index: 5000 !important;}
+
+/***********************************************************
+*
+*       3rd Party Apps
+*
+************************************************************/
+
+/* owncloud-markdown (https://github.com/icewind1991/owncloud-markdown) */
+#md_preview {padding-left: 60px;}
+
+}
