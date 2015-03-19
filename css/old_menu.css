@@ -39,6 +39,7 @@
 #navigation .wrapper {margin: auto;}
 #header .icon-caret {display:none;}
 
+table.multiselect thead {width: 100% !important; left: 24.3% !important; position: relative !important;top: 0px !important;}
 #slideshow{z-index: 5000 !important;}
 
 /***********************************************************
