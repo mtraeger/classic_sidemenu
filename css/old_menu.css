@@ -1,7 +1,7 @@
 @media screen and (min-width: 1100px){
 
 #expanddiv {background-color: #1d2d44;}
-#controls{width: 94% !important;margin-left: 6% !important;}
+#controls{width: 91% !important;margin-left: 9% !important;}
 #content {margin-top: 0px;}
 #content-wrapper {padding-left: 6% !important;width: 100% !important;}
 #navigation{
@@ -32,14 +32,14 @@
 *
 ************************************************************/    
 
-#leftcontent{width: 21% !important;}
-#rightcontent{width: 78% !important;}
+#app-navigation{width: 19.5% !important;}
+/*#app-content{width: 78% !important;}*/
 #bookmark_settings {width:19.5% !important;}
 .bookmarks_list, #firstrun {left:27% !important;}
 #navigation .wrapper {margin: auto;}
 #header .icon-caret {display:none;}
-
-table.multiselect thead {width: 100% !important; left: 24.3% !important; position: relative !important;top: 0px !important;}
+/*#body-user #filestable {min-width: 100% !important;}*/
+table.multiselect thead{left: 24.3% !important;margin: 0px !important; padding: 0px !important;}
 #slideshow{z-index: 5000 !important;}
 
 /***********************************************************
