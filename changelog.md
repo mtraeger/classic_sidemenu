@@ -1,3 +1,9 @@
+### 2015, 22 March:
+
+* Fixed multi selected files header-bar
+* merged v2.0.1 parts of original old_menu, skipped some parts
+* often width auto instead of the % width of a part helped the transform/merge into this fork
+
 ### 2015, 09 March:
 
 * Switched Menu to 100px max-width
