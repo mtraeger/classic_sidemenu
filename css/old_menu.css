@@ -37,12 +37,6 @@
 *
 ************************************************************/
 
-/* oc 7 compatibility */
-#leftcontent{width: 21% !important;}
-#rightcontent{width: 78% !important;}
-/* /oc 7 */
-
-
 #bookmark_settings {width:19.5% !important;}
 .bookmarks_list, #firstrun {left:27% !important;}
 #navigation .wrapper {margin: auto;}
