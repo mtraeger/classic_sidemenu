@@ -1,3 +1,7 @@
+### 2015, 09 July
+
+* Compatibility for ownCloud 8.1
+
 ### 2015, 21 March (V 2.0.1)
 
 * Fix selected items issue
@@ -24,6 +28,6 @@
 * menu top-right background changed
 * some refactors
 
-### 2014, 15 September 
+### 2014, 15 September
 
 * change background-color to match the top bar ([thx lub](https://github.com/SansPseudoFix/Old_menu/pull/1))
