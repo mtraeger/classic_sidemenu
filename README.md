@@ -2,6 +2,7 @@ Old Menu
 ===========
 
 Forked by Michael Träger. This is without the tiny Icons and with a fix max-width of 100px for the Menu.
+Forked from https://github.com/SansPseudoFix/Old_menu
 
 Menu on the left side for [owncloud](http://owncloud.org/).
 
