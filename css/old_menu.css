@@ -23,6 +23,12 @@
     box-shadow: 0px 0px 0px transparent;
     border-radius: 0px;
 }
+
+/*Hide DropDown Icon on Top of Menu*/
+#navigation:after, #expanddiv:after {
+  opacity:0;
+}
+
 #navigation #apps ul{text-align: center;}
 
 /*#leftcontent{width: 21% !important;}
