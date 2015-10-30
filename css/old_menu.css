@@ -44,6 +44,8 @@
 #usersearchform {left: 60% !important;}
 table.multiselect thead{width: 76% !important; left: 24.3% !important; margin: 0px !important; }
 #slideshow{z-index: 5000 !important;}
+.app-gallery #controls,
+.app-galleryplus #controls {left: 5%; width: 95%;}
 
 /***********************************************************
 *

@@ -1,3 +1,7 @@
+### 2015, 30 October (V 2.1.1)
+
+* Fix issue with Gallery and Gallery plus controls
+
 ### 2015, 09 July
 
 * Compatibility for ownCloud 8.1
