@@ -1,3 +1,7 @@
+### 2015, 17 November (V 2.1.2)
+
+* Minor fix: ownCloud 7 users couldn't disable old menu app. This version downgrade required version from ``8.1`` to ``7``, but you may have some design issues if you run ownCloud < 8.1.
+
 ### 2015, 30 October (V 2.1.1)
 
 * Fix issue with Gallery and Gallery plus controls
