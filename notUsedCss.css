@@ -4,8 +4,3 @@
 table.multiselect thead{width: 76% !important; left: 24.3% !important; margin: 0px !important; }
 
 
- +/* oc 7 compatibility */
-+#leftcontent{width: 21% !important;}
-+#rightcontent{width: 78% !important;}
-+/* /oc 7 */
-
