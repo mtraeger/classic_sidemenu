@@ -24,13 +24,16 @@
 
 /*Hide DropDown Icon on Top of Menu*/
 #navigation:after {
-  opacity:0;
+  display:none;
 }
 
 #navigation #apps ul{text-align: center;}
 
 /* may not be required
 app-navigation{width: 19.5% !important;}*/
+
+
+/* Default Apps */
     
 #bookmark_settings {width:19.5% !important;}
 .bookmarks_list, #firstrun {left:27% !important;}
