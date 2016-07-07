@@ -23,7 +23,7 @@
 }
 
 /*Hide DropDown Icon on Top of Menu*/
-#navigation:after, #expanddiv:after {
+#navigation:after {
   opacity:0;
 }
 
