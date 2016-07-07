@@ -6,7 +6,7 @@
 #content {margin-top: 0px;}
 #content-wrapper {padding-left: 100px !important;width: 100% !important;}
 #navigation{
-    background-color: #1d2d44;
+    background-color: #1d2d44; /*remove this line for standard dark or set #0082c9 for nextcloud blue*/
     visibility:visible;
     display: block !important;
     position:fixed !important;

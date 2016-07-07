@@ -1,8 +1,8 @@
 <?php
 /**
-* @package old_menu an ownCloud app
+* @package old_menu_fixed an ownCloud app
 * @category base
-* @author SpF <spf@sanspseudofix.fr>
+* @author SpF <spf@sanspseudofix.fr>, Michael Traeger
 * 
 * @license GNU Affero General Public license (AGPL)
 *
@@ -25,7 +25,7 @@
 /**
  * @file appinfo/app.php
 
- * @author SpF
+ * @author SpF, Michael Traeger
  */
 
 OCP\Util::addStyle  ( 'old_menu', 'old_menu' );

@@ -1,9 +1,10 @@
 Old Menu
 ===========
 
-Forked by Michael Träger. This is without the tiny Icons and with a fix max-width of 100px for the Menu.
+Fixed Version
 
-Forked from https://github.com/SansPseudoFix/Old_menu
+Forked by Michael Träger from https://github.com/SansPseudoFix/Old_menu. This is without the tiny Icons and with a fix max-width of 100px for the Menu.
+
 
 Menu on the left side for [owncloud](http://owncloud.org/).
 
@@ -19,5 +20,9 @@ to the top.
 * activate Old Menu
 
 Alternative
-* git clone this repo to /apps direcotry with `git clone https://github.com/mtraeger/Old_menu.git old_menu`
+* git clone this repo to /apps direcotry with `git clone https://github.com/mtraeger/old_menu_fixed.git`
 * activate in app menu
+
+## Complications
+
+Problems could arise when using this app with the original old_menu app.

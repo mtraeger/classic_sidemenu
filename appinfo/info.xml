@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
 <info>
 
-  <id>old_menu</id>
-  <name>Old Menu</name>
-  <description>Back to the old menu FORK. Now with 100px fix width. Old version with Big Icons.</description>
-  <version>2.1.0</version>
+  <id>old_menu_fixed</id>
+  <name>Old Menu FixedWith</name>
+  <description>Old Menu of Owncloud / Nextcloud. Forked version with fixed width.</description>
+  <version>2.0.0</version>
   <licence>AGPL</licence>
-  <author>SpF and Michael Traeger</author>
-  <require>7</require>
-  
- 
+  <author>Michael Traeger, forked from SpF</author>
+  <require>8</require>
+  <bugs>https://github.com/mtraeger/old_menu_fixed/issues</bugs>
+  <repository type="git">https://github.com/mtraeger/old_menu_fixed.git</repository>
+  <ocsid></ocsid>
 </info>
