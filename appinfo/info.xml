@@ -7,8 +7,12 @@
   <version>2.0.0</version>
   <licence>AGPL</licence>
   <author>Michael Traeger, forked from SpF</author>
-  <require>8</require>
+
   <bugs>https://github.com/mtraeger/old_menu_fixed/issues</bugs>
   <repository type="git">https://github.com/mtraeger/old_menu_fixed.git</repository>
   <ocsid></ocsid>
+
+  <dependencies>
+        <owncloud min-version="8.0.0" max-version="100"/>
+    </dependencies>
 </info>
