@@ -26,3 +26,13 @@ Alternative
 ## Complications
 
 Problems could arise when using this app with the original old_menu app.
+
+## Change Menu Color
+
+For use with NextCloud-Blue use 
+```
+background-color: #0082c9; 
+```
+instead of `#1d2d44` for Owncloud.
+
+You can remove this line also for dark grey.
