@@ -1,7 +1,6 @@
 @media screen and (min-width: 1100px){
 
 #controls{margin-left: 100px !important;}
-/*#app-navigation + #app-content #controls{width: 74.2% !important;left: auto !important;}*/
 
 
 #content {margin-top: 0px;}
@@ -30,8 +29,7 @@
 
 #navigation #apps ul{text-align: center;}
 
-/*#leftcontent{width: 21% !important;}
-#rightcontent{width: 78% !important;}
+/* may not be required
 app-navigation{width: 19.5% !important;}*/
     
 #bookmark_settings {width:19.5% !important;}
