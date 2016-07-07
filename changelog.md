@@ -1,3 +1,9 @@
+### 2016, 7 July
+
+Fixes for use with nextcloud
+* Bring back original color of upper right menu
+* 
+
 ### 2015, 22 March:
 
 * Fixed multi selected files header-bar
