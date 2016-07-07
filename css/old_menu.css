@@ -1,7 +1,7 @@
 @media screen and (min-width: 1100px){
 
 #controls{margin-left: 100px !important;}
-
+#controls .right{margin-right: 100px;}
 
 #content {margin-top: 0px;}
 #content-wrapper {padding-left: 100px !important;width: 100% !important;}
@@ -49,11 +49,6 @@ table.multiselect thead{left: auto !important;margin: 0px !important; padding: 0
 *       3rd Party Apps
 *
 ************************************************************/
-
-/*gallery*/
-.app-gallery #controls,
-.app-galleryplus #controls {width: 94%;}
-
 
 /* owncloud-markdown (https://github.com/icewind1991/owncloud-markdown) */
 #md_preview {padding-left: 60px;}

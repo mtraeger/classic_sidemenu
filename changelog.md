@@ -3,7 +3,7 @@
 Fixes for use with nextcloud
 * Bring back original color of upper right menu: remove #expanddiv {background-color: #1d2d44;} 
 * removed width: 91% !important; from #controls{width: 91% !important;margin-left: 100px !important;} - now showing gallery view button
-* gallery fixed temporarily - known bug: (related to 1) right button not shown correctly right
+* icons right fixed in controls (e.g. gallery)
 
 ### 2015, 22 March:
 
