@@ -36,3 +36,11 @@ background-color: #0082c9;
 instead of `#1d2d44` for Owncloud.
 
 You can remove this line also for dark grey.
+
+
+## TODOs
+
+* Change Name/AppID to old_menu_fixed
+* Enable / Disable this feature in user settings 
+* Change Color of sidebar in admin settings
+
