@@ -16,11 +16,11 @@ to the top.
 * download zip
 * go to /apps folder
 * unzip
-* change name -> ````mv Old_menu-master old_menu````
+* change name to `old_menu`
 * activate Old Menu
 
 Alternative
-* git clone this repo to /apps direcotry with `git clone https://github.com/mtraeger/old_menu_fixed.git`
+* git clone this repo to /apps direcotry with `git clone https://github.com/mtraeger/own-nextcloud_old_menu.git old_menu`
 * activate in app menu
 
 ## Complications
