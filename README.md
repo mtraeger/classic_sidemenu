@@ -1,15 +1,12 @@
-Old Menu
-===========
+Old Menu - Classic Side-Menu
+============================
 
-Fixed Version
+Fixed Width Version, Menu on the left side for [owncloud](http://owncloud.org/).
 
-Forked by Michael Träger from https://github.com/SansPseudoFix/Old_menu. This is without the tiny Icons and with a fix max-width of 100px for the Menu.
+Advantages compared to the default menu of owncloud / nextcloud are reduced clicks to open an application, as the sidebar is always visible on wide screens (wider than 1100px). Otherwise on smaller screens the standard drop-down menu is available. It lays the focus more on all installed apps and not only on the files app.
 
+Forked by Michael Träger from https://github.com/SansPseudoFix/Old_menu. This version is without the tiny Icons (therefore normal sized) and with a fix max-width of 100px for the Menu. It looks like the original old menu.
 
-Menu on the left side for [owncloud](http://owncloud.org/).
-
-When screen width is larger than 1100px, menu is placed to the left (like old oc menu). Smaller than 1100px, menu bring back
-to the top.
 
 ## How to
 
@@ -37,6 +34,9 @@ instead of `#1d2d44` for Owncloud.
 
 You can remove this line also for dark grey.
 
+## Possible Problems
+
+On upgrades of owncloud / nextcloud the acces rights have to be correct. If you cloned or extracted with wrong user permissions, you have to chown (and maybe also chmod +w) the installation directory of this app.
 
 ## TODOs
 
