@@ -3,7 +3,7 @@ Old Menu - Classic Side-Menu
 
 Fixed Width Version, Menu on the left side for [owncloud](http://owncloud.org/).
 
-Advantages compared to the default menu of owncloud / nextcloud are reduced clicks to open an application, as the sidebar is always visible on wide screens (wider than 1100px). Otherwise on smaller screens the standard drop-down menu is available. It lays the focus more on all installed apps and not only on the files app.
+Advantages compared to the default menu of owncloud / nextcloud are reduced clicks to open an application, as the sidebar is always visible on wide screens (wider than 1100px). Otherwise, the standard drop-down menu is available on smaller screens. It lays the focus more on all installed apps and not only on the files app.
 
 Forked by Michael Träger from https://github.com/SansPseudoFix/Old_menu. This version is without the tiny Icons (therefore normal sized) and with a fix max-width of 100px for the Menu. It looks like the original old menu.
 
@@ -36,7 +36,7 @@ You can remove this line also for dark grey.
 
 ## Possible Problems
 
-On upgrades of owncloud / nextcloud the acces rights have to be correct. If you cloned or extracted with wrong user permissions, you have to chown (and maybe also chmod +w) the installation directory of this app.
+On upgrades of owncloud / nextcloud the acces rights have to be correct. If you cloned or extracted with wrong user permissions, you have to `chown` (and maybe also `chmod +w`) the installation directory of this app for the web user (normally `www-data`).
 
 ## TODOs
 
