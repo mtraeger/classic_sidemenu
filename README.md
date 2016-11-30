@@ -15,8 +15,8 @@ Forked from https://github.com/SansPseudoFix/Old_menu (discontinued). Difference
 * download zip
 * go to /apps folder
 * unzip
-* change name to `old_menu`
-* activate Old Menu
+* change name to `classic_sidemenu`
+* activate Classic SideMenu
 
 Alternative
 * git clone this repo to /apps direcotry with `git clone https://github.com/mtraeger/own-nextcloud_old_menu.git old_menu`
@@ -32,7 +32,7 @@ For use with NextCloud-Blue use
 ```
 background-color: #0082c9; 
 ```
-instead of `#1d2d44` for Owncloud in css/old_menu.css.
+instead of `#1d2d44` for Owncloud in css/classic_sidemenu.css.
 
 You can remove this line also for dark grey.
 
@@ -42,7 +42,6 @@ On upgrades of owncloud / nextcloud the acces rights have to be correct. If you 
 
 ## TODOs
 
-* Change Name/AppID to old_menu_fixed
 * Enable / Disable this feature in user settings for every user individual
 * Change Color of sidebar in admin settings
 
