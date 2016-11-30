@@ -1,3 +1,7 @@
+### 2016, 1 December (V 2.1.0)
+
+* Renaming of the app
+
 ### 2016, 7 July (V 2.0.0)
 
 * Fixes for use with nextcloud

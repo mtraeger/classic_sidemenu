@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <info>
 
-  <id>old_menu</id>
-  <name>Old Menu FixedWith</name>
-  <description>Old Menu of Owncloud / Nextcloud. Forked version with fixed width.</description>
-  <version>2.0.0</version>
+  <id>classic_sidemenu</id>
+  <name>Classic SideMenu</name>
+  <description>Classid SideMenu - The old menu of Owncloud / Nextcloud. Forked from SpF.</description>
+  <version>2.1.0</version>
   <licence>AGPL</licence>
-  <author>Michael Traeger, forked from SpF</author>
+  <author>Michael Traeger</author>
 
   <bugs>https://github.com/mtraeger/own-nextcloud_old_menu/issues</bugs>
   <repository type="git">https://github.com/mtraeger/own-nextcloud_old_menu.git</repository>
