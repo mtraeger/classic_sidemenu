@@ -44,4 +44,5 @@ On upgrades of owncloud / nextcloud the acces rights have to be correct. If you 
 
 * Enable / Disable this feature in user settings for every user individual
 * Change Color of sidebar in admin settings
+* Content Security Policy error (only) in Files-App: Menu-Icons disappearing on appeareance of files in Firefox
 
