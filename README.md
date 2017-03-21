@@ -19,7 +19,7 @@ Forked from https://github.com/SansPseudoFix/Old_menu (discontinued). Difference
 * activate Classic SideMenu
 
 Alternative
-* git clone this repo to /apps direcotry with `git clone https://github.com/mtraeger/own-nextcloud_old_menu.git old_menu`
+* git clone this repo to /apps direcotry with `git clone https://github.com/mtraeger/classic_sidemenu.git classic_sidemenu`
 * activate in app menu
 
 ## Complications
